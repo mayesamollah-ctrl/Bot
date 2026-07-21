@@ -12,27 +12,6 @@
     "login": "node login",
     "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git"
-  },
-  "keywords": [
-    "bot",
-    "facebook",
-    "shahadatproject",
-    "messenger",
-    "javascript",
-    "shadat",
-    "ullash",
-    "cybersahu",
-    "shahadat chat bot"
-  ],
-  "author": "SHAHADAT SAHU",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
-  },
-  "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
@@ -53,7 +32,6 @@
     "cron": "^2.1.0",
     "crypto": "^1.0.1",
     "crypto-js": "^4.1.1",
-    "robiul-z-fca": "^1.0.20",
     "discord-chatbot": "^2.1.0",
     "discord-image-generation": "^1.4.13",
     "discord.js": "^12.5.3",
